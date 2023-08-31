@@ -11,3 +11,5 @@ app.listen(port, () => {
 
     res.json('test ok');
   });
+
+module.exports=app;
